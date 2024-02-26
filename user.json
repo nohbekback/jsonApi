@@ -1,0 +1,16 @@
+{
+    "user": [
+        {
+            "login": {
+                "username": "brendac123",
+                "password": 1234
+            },
+            "profile": {
+                "name": "Brenda Cuevas",
+                "email": "brendac@gmail.com",
+                "phone": 1234567890,
+                "address": "123 Main Street, City, State, 12345"
+            }
+        }
+    ]
+}
