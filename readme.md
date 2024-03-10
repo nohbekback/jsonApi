@@ -6,6 +6,6 @@
 
 ## logProf es un diccionario 
 
-## logProf1 cadena de caracteres en formato json
+## logProf1 cadena de caracteres en formato json. instale jsonschema para la validacion de cuenta y organizacion. CODIGO A VALIDAR
 
 ## user.py es el archivo q lee al archivo user.json
